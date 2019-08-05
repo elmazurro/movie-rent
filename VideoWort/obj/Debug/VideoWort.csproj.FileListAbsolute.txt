@@ -1,0 +1,154 @@
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+C:\Users\domin\source\repos\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CopyComplete
+C:\Users\domin\source\repos\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+C:\Users\domin\Desktop\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CopyComplete
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+C:\Users\domin\Desktop\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+F:\Pobrane\VideoWort\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.csprojResolveAssemblyReference.cache
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+F:\Pobrane\VideoWort\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.Cache
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+C:\Users\domin\Documents\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.csprojAssemblyReference.cache
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.cache
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CopyComplete
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.Rent.resources
+C:\Users\domin\Documents\VideoWort\VideoWort\obj\Debug\VideoWort.Zestawienie.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.csprojResolveAssemblyReference.cache
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Rent.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Return.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.Zestawienie.resources
+F:\Pobrane\VideoWort Dominik\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Rent.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Return.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.Zestawienie.resources
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CopyComplete
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+C:\Users\domin\Desktop\VideoWorttatat\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort potężny\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+F:\Pobrane\VideoWort potężny\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+F:\Pobrane\VideoWort potężny\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csprojResolveAssemblyReference.cache
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.EditClient.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Rent.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Return.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Zestawienie.resources
+F:\Pobrane\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.Cache
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.exe.config
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.exe
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\VideoWort.pdb
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\Google.Protobuf.dll
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\MySql.Data.dll
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\Google.Protobuf.xml
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\bin\Debug\MySql.Data.xml
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csprojAssemblyReference.cache
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.AddClient.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.AddFilm.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Clients.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.EditClient.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Form1.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Properties.Resources.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Rent.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.Return.resources
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.csproj.CopyComplete
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.exe
+C:\Users\domin\Desktop\WypozyczalniaSamochodow-master\VideoWort ofiszjal\VideoWort\VideoWort\obj\Debug\VideoWort.pdb
